@@ -1,0 +1,9 @@
+com\fullstack\fsdev\manager\impl\HomeManagerImpl.class
+com\fullstack\fsdev\config\SwaggerConfig.class
+com\fullstack\fsdev\service\impl\HomeServiceImpl.class
+com\fullstack\fsdev\controller\HomeController.class
+com\fullstack\fsdev\repository\ActorRepository.class
+com\fullstack\fsdev\FsDevApplication.class
+com\fullstack\fsdev\service\HomeService.class
+com\fullstack\fsdev\model\Actor.class
+com\fullstack\fsdev\manager\HomeManager.class
